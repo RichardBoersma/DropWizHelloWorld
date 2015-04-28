@@ -1,4 +1,4 @@
-# Dropwizzard tutorial om HellowWorld webservice te maken
+# Dropwizzard tutorial om HelloWorld webservice te maken
 
 Project opgebouwd volgens:
  http://dropwizard.io/getting-started.html
